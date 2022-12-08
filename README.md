@@ -286,8 +286,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### NFT API
 | Tool | Description | API CALL |
 | --- | --- | --- |
-| [Alchemy API](https://www.alchemy.com/nft-api) | Help to navigate ETH and other chain data via API | `import { Alchemy } from "alchemy-sdk";
-Alchemy().nft.getNftsForOwner("0xshah.eth").then(console.log);` |
+| [Alchemy API](https://www.alchemy.com/nft-api) | Help to navigate ETH and other chain data via API | `import { Alchemy } from "alchemy-sdk";Alchemy().nft.getNftsForOwner("0xshah.eth").then(console.log);` |
 
 ## IPFS
 | Tool | Description |
