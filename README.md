@@ -227,7 +227,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### TON Address Regex
 | Address regex | Description |
 | --- | --- |
-| `EQ[a-zA-Z0-9]{46}` | Lorem ipsum dolor sit amet, consectetur adipiscing elit
+| `[a-zA-Z0-9]{48}` | An alhpanunmerical string of 48 characters
 | `\w\s\w\s\w` | It also supports generated nickname like `Graceful Tan Takin` <_<
 
 ### TON Blockchain explorers
@@ -354,7 +354,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Bitcointalk |2015, database of one of the first community directly involved in BTC growth |
 | BTC-E | Account balances, Email addresses, IP addresses, Passwords, Usernames, Website activity  |
 | BTC-Alpha | Email addresses, IP addresses, Passwords, Usernames |
-| Globalcrypto.exchange | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| Globalcrypto.exchange | Hacked by CoomingProject ransomware operators >__> |
 | Ledger | A list of info related to Ledger user, it was leaked in 2022 and cointains user details |
 | Coinmarketcap| A list of email scraped from Coinmarketecap platform |
 | Coinmama | Email addresses, Passwords, Usernames |
