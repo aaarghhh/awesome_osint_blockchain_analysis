@@ -184,7 +184,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | `Ae2[1-9A-HJ-NP-Za-km-z]+` | Legacy address ( Byron ) - Icarus-style |
 | `DdzFF[1-9A-HJ-NP-Za-km-z]+` | Legacy address ( Byron ) - Daedalus-style |
 | `addr1[a-z0-9]+` | Shelley address  |
-| `stake1[a-z0-9]+`  | Shelley address used in stacking exchanges |
+| `stake1[a-z0-9]+`  | Shelley address used in stacking pool |
 
 ### ADA Blockchain explorers
 | Link | Description |
