@@ -38,6 +38,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
     - [Format](#ton-address-regex)
     - [Explorer](#ton-blockchain-explorers)
     - [Other](#ton-other)
+    - [API](#ton-api)
 - [SMARTCONTRACTS](#smartcontracts)
 - [METAVERSE](#metaverse)
 - [IPFS](#ipfs)
@@ -238,12 +239,30 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tonmoon](https://tonmoon.org/explorer/)| Help to inspect an address, it support canonical address and nickname also |
 | [Youton](https://youton.org/)| Another Address explorer   |
 | [Toncoin](https://explorer.toncoin.org/) | An more technical esplorer, it helps to query the TON network using different keyfields, workchain ,shard and so on |
+| [TonAPI](https://tonapi.io/) | Is a marketplace/ auction used to purchase number or nickname usable on the Telegram platform |
 
 ### TON OTHER
 | Link | Description |
 | --- | --- |
 | [Tonwine](https://ton.wine/) | An interactive way to pay with TON |
+| [Fragment](https://tonapi.io/swagger-ui) | Is a marketplace/ auction used to purchase number or nickname usable on the Telegram platform |
 
+### TON API
+| Link | Description |
+| --- | --- |
+| get Bulk info about addresses | ```curl -X 'GET' \
+  'https://tonapi.io/v1/account/getBulkInfo?addresses=0%3Ada6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf%2C0%3Ada6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf' \
+  -H 'accept: application/json'```
+| Search for a ton domain | ```curl -X 'GET' \
+  'https://tonapi.io/v1/dns/domains/search?domain=wallet.ton' \
+  -H 'accept: application/json'``` | 
+| Get a backresolve of a domain | ```curl -X 'GET' \
+  'https://tonapi.io/v1/dns/backresolve?account=0%3ABA60BFBD527C0CD2D70C6396630C50A498AF015B987ADAAD1D4A9E287F604536' \
+  -H 'accept: application/json'```
+| Get current bids for a domain | ```curl -X 'GET' \
+  'https://tonapi.io/v1/auction/getBids?domain=wallet.ton' \
+  -H 'accept: application/json'```
+| 
 
 ## SMARTCONTRACTS
 | Tool | Description |
