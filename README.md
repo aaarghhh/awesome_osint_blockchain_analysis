@@ -53,7 +53,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 - [RESOURCES, REFERENCES, READING](#resources-references-reading)
 - [LEAKS?](#notable-breach-and-leaks-related-to-web3)
 
-## <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="btc" style="width:25px;"/> Bitcoin - BTC
+## <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="btc" style="width:25px;" width="25" height="25" /> Bitcoin - BTC
 
 ### BTC Address Regex
 | Address regex | Description |
@@ -118,7 +118,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Localbitcoin](https://localbitcoins.com/) | Useful to check nicknames and details that could be related to Bitcoins adopters
 
 
-## <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="btc" style="width:25px;"/> Ethereum - ETH
+## <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="btc" style="width:25px;" width="25" height="25"  /> Ethereum - ETH
 
 ### ETH Address Regex
 | Address regex | Description |
@@ -157,7 +157,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Naddison36](https://github.com/naddison36/tx2uml) | Ethereum transaction to UML sequence diagram generator |
 | [Cryptocurrencyalerting](https://cryptocurrencyalerting.com/wallet-watch.html) | Getting alerts about transaction related to a given address |
 
-## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;"/> [](#monero)MONERO - XMR
+## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;" width="25" height="25" /> [](#monero)MONERO - XMR
 
 ### XMR Address Regex
 | Address regex | Description |
@@ -177,7 +177,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 
 
 
-## <img src="https://cryptologos.cc/logos/cardano-ada-logo.png" alt="cardano" style="width:25px;"/> [](#cardano)CARDANO - ADA
+## <img src="https://cryptologos.cc/logos/cardano-ada-logo.png" alt="cardano" style="width:25px;" width="25" height="25" /> [](#cardano)CARDANO - ADA
 
 ### ADA Address Regex
 | Address regex | Description |
@@ -202,7 +202,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
 
 
-## <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="solana" style="width:25px;"/> [](#solana)SOLANA - SOL
+## <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="solana" style="width:25px;" width="25" height="25" /> [](#solana)SOLANA - SOL
 
 ### SOL Address Regex
 | Address regex | Description |
@@ -222,7 +222,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
 
 
-## <img src="https://cryptologos.cc/logos/thumbs/toncoin.png" alt="ton" style="width:25px;"/> [](#toncoin) TONCOIN - TON
+## <img src="https://cryptologos.cc/logos/thumbs/toncoin.png" alt="ton" style="width:25px;" width="25" height="25" /> [](#toncoin) TONCOIN - TON
 
 ### TON Address Regex
 | Address regex | Description |
