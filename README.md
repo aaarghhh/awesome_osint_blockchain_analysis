@@ -79,7 +79,6 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Coinfirm](https://www.coinfirm.com/) | industry-leading blockchain analytics, investigations and AML solutions are trusted to best analyse and manage risk.|
 | [Whalealert](https://whale-alert.io/alerts) | An alerting system, it's helpful to get alerts when wallets with a big amount of funds are making transactions |
 | [BTCparser](https://btcparser.com/) | A project to get information about differents kind of wallets, it monitors old wallets or wallets related to the Satoshi era |
-| [BitQuery](https://explorer.bitquery.io/bitcoin?theme=dark) | A Blockchain explorer which supports different kind of assetts. It supports BTC, ETH, DOGE, ADA etc |
 | [Bitref](https://bitref.com) | A simple, address explorer. It display amount of Bitcoin held on given addresses |
 
 
@@ -141,7 +140,6 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Ethplorer](https://ethplorer.io/) | Track address portfolios for any Ethereum address with comprehensive balance charts and transactions; |
 | [ENS Domains](https://app.ens.domains/) | An ens domain explore, mainly used to purchase that kind of assets, it also help to find end domains and related information |
 | [Breadcrumbs.app](https://www.breadcrumbs.app/) | An investigation tool that help to visualize address relation, it's very helpful and it contains information about sanzioned address and assets. It supports BTC, ETH and any ERC20 Token |
-| [Bitquery.io](https://www.bitquery.io/) | Full explorer which support, addresses analysis, smartcontracts and assets explorer |
 
 ### ETH Blockchain Databases and Analyzers
 | Link | Description |
@@ -198,7 +196,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Blockchair](https://blockchair.com/cardano) | An explorer that supports differents cryptovalutes, Bitcoin, Ethereum, Dogecoin, the search permits to query address, transaction and embedded text inside block.  |
 | [Adastat](https://adastat.net/)| An explorer related to the whole Cardano ecosystem, it can inspect Addresses, Block, Trnsactions Epoch   |
 | [Adapool](https://adapools.org/) | An Stacking pool explorer, it helps to browse stacking pool and the currently related activities  |
-| [Bitquery.io](https://www.bitquery.io/) | Full explorer which support, addresses analysis, smartcontracts and assets explorer |
+| [BitQuery](https://www.bitquery.io/) | Full explorer which support, addresses analysis, smartcontracts and assets explorer |
 
 ### ADA Blockchain Databases and Analyzers
 | Link | Description |
