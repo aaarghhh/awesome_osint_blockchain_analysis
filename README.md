@@ -3,7 +3,8 @@
      <img alt="GitHub stars" src="https://img.shields.io/github/stars/aaarghhh/osint_criypto_web3_stuff"> 
      <img alt="GitHub forks" src="https://img.shields.io/github/forks/aaarghhh/osint_criypto_web3_stuff"> <br>
      <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
-     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"><img src="https://img.shields.io/badge/Made%20With-Love-orange.svg">
+     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+     <img src="https://img.shields.io/badge/Made%20With-Love-orange.svg">
      <br>
      <br>
 </div>
