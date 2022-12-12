@@ -380,4 +380,5 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Dagpay.io | Mail,password,IP,id of the SCAM progeget Dagocoin |
 | Paybito | Hitted by Lockbit ransomware gang >__> |
 | BitRewards | bitrewards.com 2020 full database |
-| BitMain | bitmain database 2018 |
+| BitMain | Bitmain database 2018 |
+| Cointracker | 2022 compromised Email and partial telephone number |
