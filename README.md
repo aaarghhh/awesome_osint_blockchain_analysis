@@ -44,6 +44,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 - [METAVERSE](#metaverse)
 - [IPFS](#ipfs)
 - [NFT](#nft)
+    - [NFT Databases and Analyzers](#nft-databases-and-analyzers)
     - [API](#nft-api)
 - [IPFS](#ipfs)
 - [METAVERSE](#metaverse)
@@ -286,6 +287,11 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tonnft](https://explorer.tonnft.tools/) | A marketplce and explorer for TON nft |
 | [GetGems](https://getgems.io/collection/) | Another marketplace for NFTs from TON netowrk |
 | [Disintar](https://beta.disintar.io/) | A marketplace for NFTs based on TON netowrk, there is also a collection related to Telegram names |
+
+### NFT Databases and Analyzers
+| Link | Description |
+| --- | --- |
+| [Scamsniffer](https://explorer.scamsniffer.io/?sort=30DayVolume) | A full solution to track NFT scammer, it also supports a Browser extension and a Discord bot |
 
 ### NFT API
 | Tool | Description | API CALL |
