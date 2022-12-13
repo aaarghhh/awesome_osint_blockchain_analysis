@@ -287,6 +287,9 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tonnft](https://explorer.tonnft.tools/) | A marketplce and explorer for TON nft |
 | [GetGems](https://getgems.io/collection/) | Another marketplace for NFTs from TON netowrk |
 | [Disintar](https://beta.disintar.io/) | A marketplace for NFTs based on TON netowrk, there is also a collection related to Telegram names |
+| [NFTGO.io](https://nftgo.io/) | Discover, analyze, and trade NFTs faster and smarter than anyone else, aided by in-depth analytics and intelligent toolkits. |
+| [NFT scan](https://www.nftscan.com/) | An nft explorer which supports different blockchain like Ethereum, Binance, Polygon, Solana and others
+
 
 ### NFT Databases and Analyzers
 | Link | Description |
@@ -304,7 +307,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | `ipfs dht findprovs <hash-of-file>` | returns IDs of all nodes having the file |
 | `ipfs dht findpeer <nodeID>` | returns the list of node addresses (IP v4 and v6, TCP and UDP) |
 | [IPFS scanner](https://github.com/cryptodashie/ipfs/tree/fda709851b21d9ef82eb246da6f96667f14f3ae8)| IPFS scanning can identify new hosted content or expose information leaks similar to Amazon S3 buckets.  | 
-
+| [IPFS browser](https://ipfsbrowser.com/) | Search, view, access, and download IPFS files quickly and easily right in your web browser from any device! |
 
 
 ## METAVERSE
