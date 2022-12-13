@@ -336,7 +336,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ## TOOLS
 | Breach | Description |
 | --- | --- |
-| [Obsidian templates Cryptocurrencies]([https://github.com/theNerdInTheHighCastle/Obsidian](https://github.com/theNerdInTheHighCastle/obsidian-osint-templates/blob/main/--%20templates/crypto-address.md)) | An Obisidian template for Cryptocurrencies investigation  |
+| [Obsidian templates Cryptocurrencies](https://github.com/theNerdInTheHighCastle/obsidian-osint-templates/blob/main/--%20templates/crypto-address.md) | An Obisidian template for Cryptocurrencies investigation  |
 | [Obsidian templates NFT](https://github.com/theNerdInTheHighCastle/obsidian-osint-templates/blob/main/--%20templates/NFT.md)| An Obisidian template for Cryptocurrencies investigation  |
 | [Eth Explorers Extension](https://github.com/apoorvlathey/eth-explorers-extension) | Browser extension to open Ethereum addresses & transaction hash from any page on popular explorers + dashboards |
 | [Maltego](https://www.maltego.com/)| Maltego directly support BTC and ETH address entities. It is a tool used for OSINT and Forensic investigations   |
