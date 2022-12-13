@@ -383,7 +383,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Feathercoin.com | Combolist (Credential stuffing?) |
 | MtGox.com | Combolist (Credential stuffing?) |
 | ShoppingBitcoins.com | Combolist (Credential stuffing?) |
-| Dagpay.io | Mail,password,IP,id of the SCAM progeget Dagocoin |
+| Dagpay.io | Mail,password,IP,id of the SCAM project Dagocoin |
 | Paybito | Hitted by Lockbit ransomware gang >__> |
 | BitRewards | bitrewards.com 2020 full database |
 | BitMain | Bitmain database 2018 |
