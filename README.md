@@ -243,13 +243,13 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tonmoon](https://tonmoon.org/explorer/)| Help to inspect an address, it support canonical address and nickname also |
 | [Youton](https://youton.org/)| Another Address explorer   |
 | [Toncoin](https://explorer.toncoin.org/) | An more technical esplorer, it helps to query the TON network using different keyfields, workchain ,shard and so on |
-| [TonAPI](https://tonapi.io/) | Is a marketplace/ auction used to purchase number or nickname usable on the Telegram platform |
+| [TonAPI](https://tonapi.io/swagger-ui) | Is a platfor and API useful for inspect TON address and any related assets, it supports Number and also NFT  |
 
 ### TON OTHER
 | Link | Description |
 | --- | --- |
 | [Tonwine](https://ton.wine/) | An interactive way to pay with TON |
-| [Fragment](https://tonapi.io/swagger-ui) | Is a marketplace/ auction used to purchase number or nickname usable on the Telegram platform |
+| [Fragment](https://fragment.com/numbers) | Is a marketplace/ auction used to purchase number or nickname usable on the Telegram platform |
 | [Ton place](https://ton.place/) | A platform for monetize from content and fanbase, dork `site:ton.place [content]` |
 
 ### TON API
