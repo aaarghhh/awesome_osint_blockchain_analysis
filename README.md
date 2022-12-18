@@ -257,7 +257,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | Get bulk info about some addresses | ```curl -X 'GET' 'https://tonapi.io/v1/account/getBulkInfo?addresses=0%3Ada6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf%2C0%3Ada6b1b6663a0e4d18cc8574ccd9db5296e367dd9324706f3bbd9eb1cd2caf0bf' -H 'accept: application/json'``` |
 | Search for a ton domain | ```curl -X 'GET' 'https://tonapi.io/v1/dns/domains/search?domain=wallet.ton' -H 'accept: application/json'``` | 
-| Search all Telegram number currently not on sale (limit 10000) | ```curl -X 'GET' 'https://tonapi.io/v1/nft/searchItems?collection=0%3A0e41dc1dc3c9067ed24248580e12b3359818d83dee0304fabcf80845eafafdb2&include_on_sale=false&limit=10000&offset=0' -H 'accept: application/json'
+| Search all Telegram number currently not on sale (limit 10000) | ```curl -X 'GET' 'https://tonapi.io/v1/nft/searchItems?collection=0%3A0e41dc1dc3c9067ed24248580e12b3359818d83dee0304fabcf80845eafafdb2&include_on_sale=false&limit=10000&offset=0' -H 'accept: application/json```
 | Get a backresolve of a domain | ```curl -X 'GET' 'https://tonapi.io/v1/dns/backresolve?account=0%3ABA60BFBD527C0CD2D70C6396630C50A498AF015B987ADAAD1D4A9E287F604536' -H 'accept: application/json'``` |
 | Get current bids for a domain | ```curl -X 'GET' 'https://tonapi.io/v1/auction/getBids?domain=wallet.ton' -H 'accept: application/json'``` | 
 
