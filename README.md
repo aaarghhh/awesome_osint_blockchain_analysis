@@ -98,7 +98,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Know Your Coin Privacy](https://kycp.org/) | Try to guess relation from BTC adddress using this techiques  Boltzmann analysis, Entity analysis, Address reuse, Input/output merges |
 | [SPLcenter Addresslist](https://www.splcenter.org/cryptocurrency-report) | A spreadsheet containing information about address used by extremists and far right communities |
 | [Bad Bitcoin](https://badbitcoin.org/) | A database containing info and details about Bitcoin Fraud since 2014 |
-[ [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
+| [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
 
 ### BTC API
 | Req | Description |  
