@@ -250,6 +250,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | [Tonwine](https://ton.wine/) | An interactive way to pay with TON |
 | [Fragment](https://tonapi.io/swagger-ui) | Is a marketplace/ auction used to purchase number or nickname usable on the Telegram platform |
+| [Ton place](https://ton.place/) | A platform for monetize from content and fanbase, dork `site:ton.place [content]` |
 
 ### TON API
 | Link | Description |
