@@ -95,7 +95,10 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Scamsearch](https://www.scamsearch.io/) | It's a global scam database. Search by Profile Picture, Email, Username, Pseudo Name, Phone Number, crypto address or website. |
 | [Cryptoscamdb](https://cryptoscamdb.org/scams) | A scam database which contains information about sites scam and related address  |
 | [Ransomwhere](https://ransomwhe.re/) | Bitcoin address used in ransomware activities, the databse is in raw format and it's integrated in chainabuese service |
+| [Know Your Coin Privacy](https://kycp.org/) | Try to guess relation from BTC adddress using this techiques  Boltzmann analysis, Entity analysis, Address reuse, Input/output merges |
 | [SPLcenter Addresslist](https://www.splcenter.org/cryptocurrency-report) | A spreadsheet containing information about address used by extremists and far right communities |
+| [Bad Bitcoin](https://badbitcoin.org/) | A database containing info and details about Bitcoin Fraud since 2014 |
+[ [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
 
 ### BTC API
 | Req | Description |  
@@ -151,7 +154,9 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
 | [Scamsearch](https://www.scamsearch.io/) | It's a global scam database. Search by Profile Picture, Email, Username, Pseudo Name, Phone Number, crypto address or website. |
 | [Cryptoscamdb](https://cryptoscamdb.org/scams) | A scam database which contains information about sites scam and related address  |
+| [Cryptoscam](https://cryptscam.com/) | Another database containing information about scammers, it supports Email/Address search
 | [SPLcenter Addresslist](https://www.splcenter.org/cryptocurrency-report) | A spreadsheet containing information about address used by extremists and far right communities |
+| [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
 
 ### ETH Other
 | Link | Description |
@@ -178,8 +183,6 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | [Antianalysis](https://antinalysis.org/example) | Service is maintened and hosted by activist, it support machine learning to analyze information about an address and its related transactions |
 | [Antianalysis (DARK)](http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion/about) | Service is maintened and hosted by activist, it support machine learning to analyze information about an address and its related transactions | 
-
-
 
 ## <img src="https://cryptologos.cc/logos/cardano-ada-logo.png" alt="cardano" style="width:25px;" width="25" height="25" /> [](#cardano)CARDANO - ADA
 
@@ -225,7 +228,6 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Link | Description |
 | --- | --- |
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
-
 
 ## <img src="https://cryptologos.cc/logos/thumbs/toncoin.png" alt="ton" style="width:25px;" width="25" height="25" /> [](#toncoin) TONCOIN - TON
 
