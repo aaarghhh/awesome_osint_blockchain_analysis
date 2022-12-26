@@ -13,7 +13,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 
 
 ## [](#table-of-contents) Table of contents
-- [OPSEC](#-bitcoin---btc)
+- [OPSEC](#crypto-opsec-methodologies-and-info)
 - [BITCOIN](#-bitcoin---btc)
     - [Format](#btc-address-regex)
     - [Explorer](#btc-blockchain-explorers)
