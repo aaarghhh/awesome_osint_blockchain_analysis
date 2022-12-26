@@ -11,7 +11,9 @@
 
 A collection of resources useful for OSINT Investigations on Cryptocurrencies and WEB3. For sure, it isn't a complete resource, most of what you find here is related to some investigation I did. Feel free to fork and make any addition you want. 
 
+
 ## [](#table-of-contents) Table of contents
+- [OPSEC](#-bitcoin---btc)
 - [BITCOIN](#-bitcoin---btc)
     - [Format](#btc-address-regex)
     - [Explorer](#btc-blockchain-explorers)
@@ -54,6 +56,11 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 - [TOOLS](#tools)
 - [RESOURCES, REFERENCES, READING](#resources-references-reading)
 - [LEAKS?](#notable-breach-and-leaks-related-to-web3)
+
+### CRYPTO-OPSEC Methodologies and Info 
+| Info / Tool | Description |
+| --- | --- |
+[OfficerCIA Guide](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) | Collection and discussion about the best DeFi,Blockchain and crypto-related OpSec researches
 
 ## <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="btc" style="width:25px;" width="25" height="25" /> Bitcoin - BTC
 
