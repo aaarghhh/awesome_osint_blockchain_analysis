@@ -154,6 +154,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Ethplorer](https://ethplorer.io/) | Track address portfolios for any Ethereum address with comprehensive balance charts and transactions; |
 | [ENS Domains](https://app.ens.domains/) | An ens domain explore, mainly used to purchase that kind of assets, it also help to find end domains and related information |
 | [Breadcrumbs.app](https://www.breadcrumbs.app/) | An investigation tool that help to visualize address relation, it's very helpful and it contains information about sanzioned address and assets. It supports BTC, ETH and any ERC20 Token |
+| [Arkhamintelligence](https://platform.arkhamintelligence.com) | A tool that permits network mapping on DEFI and altcoin related entities, currently in closed BETA
+| [Watchers.pro](https://watchers.pro) | [Warning!!! Create a sock wallet, it needs a Metamask extension to access it] A tool that provides a dashboard for clustering and inspecting DEFI and altcoin related entities 
 
 ### ETH Blockchain Databases and Analyzers
 | Link | Description |
@@ -319,6 +321,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | `ipfs dht findpeer <nodeID>` | returns the list of node addresses (IP v4 and v6, TCP and UDP) |
 | [IPFS scanner](https://github.com/cryptodashie/ipfs/tree/fda709851b21d9ef82eb246da6f96667f14f3ae8)| IPFS scanning can identify new hosted content or expose information leaks similar to Amazon S3 buckets.  | 
 | [IPFS browser](https://ipfsbrowser.com/) | Search, view, access, and download IPFS files quickly and easily right in your web browser from any device! |
+
 
 
 ## METAVERSE
