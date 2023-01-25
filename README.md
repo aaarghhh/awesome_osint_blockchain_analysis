@@ -84,6 +84,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Awebanalysis](https://awebanalysis.com/en/bitcoin-address-validate/) | Validate Bitcoin format |
 | [WalletExplorer](https://www.walletexplorer.com/) | A service which try to retrieve the wallet related to an address [#BacarefullwhatyouOSINTWith](https://www.theblock.co/linked/118223/chainalysis-used-an-ip-scraping-block-explorer-to-aid-law-enforcement-leaked-docs-say)  |
 | [Breadcrumbs.app](https://www.breadcrumbs.app/) | An investigation tool that help to visualize address relation, it's very helpful and it contains information about sanzioned address and assets. It supports BTC, ETH and any ERC20 Token |
+| [TRM](https://www.trmlabs.com/) | Tranasction Monitor and Forensics are two tools that help in dept analysis on Blockchain transaction | 
 | [Lampyre](https://lampyre.io/) | Like Maltego it supports BTC investigations and correlations. [#BacarefullwhatyouOSINTWith](https://keyfindings.blog/2020/03/23/be-careful-what-you-osint-with/)  |
 | [Bitquery.io](https://www.bitquery.io/) | Full explorer which support, addresses analysis, smartcontracts and assets explorer |
 | [Ciphertrace](https://www.ciphertrace.com/) | Inspect/Armada - Cryptocurrency Risk and Fraud Controls for Financial Institutions/Cryptocurrency Risk and Fraud Controls for Financial Institutions |
