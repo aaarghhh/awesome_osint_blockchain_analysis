@@ -261,7 +261,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [TonAPI](https://tonapi.io/swagger-ui) | Is a platfor and API useful for inspect TON address and any related assets, it supports Number and also NFT  |
 | [Ton.page](https://ton.page/) | Another Explorer, fast and easy to use
 | [Ton.cx](https://ton.cx/) | A raw and in depht analysis tool for TON transactions
-| [GetGems](https://getgems.io/collection/) | A marketplace for NFTs for TON network assets |
+| [GetGems](https://getgems.io/top-collections/) | A marketplace for NFTs for TON network assets |
 
 ### TON Blockchain Databases and Analyzers
 | Link | Description |
@@ -312,7 +312,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [NFT Analyst Starter Pack](https://github.com/a16z/nft-analyst-starter-pack) | USing alchemy API key, it can generate CSV extracts for all token transfers, historical sales, and each underlying item's metadata |
 | [Nftfreeviewer](https://www.freenftviewer.io/) | An NFTs epxlorer that supports ETH and Polygon netowrk |
 | [Tonnft](https://explorer.tonnft.tools/) | A marketplce and explorer for TON nft |
-| [GetGems](https://getgems.io/collection/) | Another marketplace for NFTs for TON network assets |
+| [GetGems](https://getgems.io/top-collections/) | Another marketplace for NFTs for TON network assets |
 | [Disintar](https://beta.disintar.io/) | A marketplace for NFTs based on TON netowrk, there is also a collection related to Telegram names |
 | [NFTGO.io](https://nftgo.io/) | Discover, analyze, and trade NFTs faster and smarter than anyone else, aided by in-depth analytics and intelligent toolkits. |
 | [NFT scan](https://www.nftscan.com/) | An nft explorer which supports different blockchain like Ethereum, Binance, Polygon, Solana and others
