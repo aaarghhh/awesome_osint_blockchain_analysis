@@ -246,7 +246,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### TON Address Regex
 | Address regex | Description |
 | --- | --- |
-| `[a-zA-Z0-9]{48}` | An alhpanunmerical string of 48 characters
+| `0:[a-z0-9]{64}` | An alhpanunmerical string of 48 characters
+| `[a-zA-Z0-9\-\_]{48}` | Friendly name, based on a custom hash algorithm, ref crc16 custom #TODO investigate
 | `\w\s\w\s\w` | It also supports generated nickname like `Graceful Tan Takin` <_<
 
 ### TON Blockchain explorers
@@ -258,6 +259,9 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Youton](https://youton.org/)| Another Address explorer   |
 | [Toncoin](https://explorer.toncoin.org/) | An more technical esplorer, it helps to query the TON network using different keyfields, workchain ,shard and so on |
 | [TonAPI](https://tonapi.io/swagger-ui) | Is a platfor and API useful for inspect TON address and any related assets, it supports Number and also NFT  |
+| [Ton.page](https://ton.page/) | Another Explorer, fast and easy to use
+| [Ton.cx](https://ton.cx/) | A raw and in depht analysis tool for TON transactions
+
 
 ### TON Blockchain Databases and Analyzers
 | Link | Description |
@@ -270,6 +274,9 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tonwine](https://ton.wine/) | An interactive way to pay with TON |
 | [Fragment](https://fragment.com/numbers) | Is a marketplace/ auction used to purchase number or nickname usable on the Telegram platform `https://fragment.com/username/[username]` |
 | [Ton place](https://ton.place/) | A platform for monetize from content and fanbase, dork `site:ton.place [content]` |
+| [Tonex](https://tonex.app/) | A social netowrk directly integrated on TON network
+| [TONwhale](https://tonwhales.com/it/explorer/top) | A list of top 1000 accounts 
+| [TONmeterbot](https://tonometerbot.com/) | A service used to make scores about users. The score is generated on Balance/NFTnum basis. 
 
 ### TON API
 | Link | Description |
