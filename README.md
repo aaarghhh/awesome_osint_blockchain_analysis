@@ -246,8 +246,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### TON Address Regex
 | Address regex | Description |
 | --- | --- |
-| `0:[a-z0-9]{64}` | An alhpanunmerical string of 48 characters
-| `[a-zA-Z0-9\-\_]{48}` | Friendly name, based on a custom hash algorithm, ref crc16 custom #TODO investigate
+| `0:[a-z0-9]{64}` | The raw address, it is an hexadecimal format  
+| `[a-zA-Z0-9\-\_]{48}` | Friendly name, based on a custom hash algorithm, ref: crc16 custom #TODO investigate
 | `\w\s\w\s\w` | It also supports generated nickname like `Graceful Tan Takin` <_<
 
 ### TON Blockchain explorers
