@@ -45,7 +45,6 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
     - [API](#ton-api)
 - [SMARTCONTRACTS](#smartcontracts)
 - [METAVERSE](#metaverse)
-- [IPFS](#ipfs)
 - [NFT](#nft)
     - [NFT Databases and Analyzers](#nft-databases-and-analyzers)
     - [API](#nft-api)
