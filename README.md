@@ -102,6 +102,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Bitcoinabuse](https://www.bitcoinabuse.com/) | Tracking bitcoin addresses used by ransomware, blackmailers, fraudsters, etc. |
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
 | [Scamsearch](https://www.scamsearch.io/) | It's a global scam database. Search by Profile Picture, Email, Username, Pseudo Name, Phone Number, crypto address or website. |
+| [Scamalert](https://scam-alert.io/) | It offers a search engine for scam and crypto-address related frauds  |
 | [Cryptoscamdb](https://cryptoscamdb.org/scams) | A scam database which contains information about sites scam and related address  |
 | [Ransomwhere](https://ransomwhe.re/) | Bitcoin address used in ransomware activities, the databse is in raw format and it's integrated in chainabuese service |
 | [Know Your Coin Privacy](https://kycp.org/) | Try to guess relation from BTC adddress using this techiques  Boltzmann analysis, Entity analysis, Address reuse, Input/output merges |
