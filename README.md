@@ -75,6 +75,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### BTC Blockchain explorers
 | Link | Description |
 | --- | --- |
+| [3xpl.com](https://3xpl.com/bitcoin) | Fastest ad-free universal block explorer |
 | [Blockchain.com](https://www.blockchain.com/explorer/assets/btc) | One of the first and robust explorer, it permits to explor Bitcoin, Ethreum, Bitcoin Cash , other Assets and also NFT  |
 | [Blockchair](https://blockchair.com/bitcoin) | An explorer that supports differents cryptovalutes, Bitcoin, Ethereum, Dogecoin, the search permits to query address, transaction and embedded text inside block |
 | [Crystalblockchain](https://explorer.crystalblockchain.com/) | The public explorer helps to search for adresses, transactions, it also display a comprensive detail about ad address. |
@@ -113,6 +114,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### BTC API
 | Req | Description |  
 | --- | --- |  
+| `https://3xpl.com/bitcoin/address/xxx` | Request for the status of the address using 3xpl API |
 | `https://blockchair.com/bitcoin/address/xxx` | Request for the status of the address using Blockchair API |  
 | `https://blockchair.com/bitcoin-cash/transaction/xxx` | Request for the detail of a give Transaction |  
 | `https://www.bitcoinabuse.com/reports/` | Looking for any entry related to a given address on the Bitcoinabuse database |  
@@ -145,6 +147,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### ETH Blockchain explorers
 | Link | Description |
 | --- | --- |
+| [3xpl.com](https://3xpl.com/eth) | Fastest ad-free universal block explorer. |
 | [Blockchain.com](https://www.blockchain.com/explorer/assets/eth) | One of the first and robust explorer, it permits to explor Bitcoin, Ethreum, Bitcoin Cash , other assets and also NFT  |
 | [Etherscan](https://etherscan.io/) | The most reliable and complete explorer for Ethereum ecosystem. It help to search Adressess, token , nft, smartcontracts and other also ens domains |
 | [Blockchair](https://blockchair.com/bitcoin) | An explorer that supports differents cryptovalutes, Bitcoin, Ethereum, Dogecoin, the search permits to query address, transaction and embedded text inside block |
@@ -253,6 +256,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### TON Blockchain explorers
 | Link | Description |
 | --- | --- |
+| [3xpl.com](https://3xpl.com/) | Fastest ad-free universal block explorer |
 | [Tonscan](https://tonscan.org/)  | An address lookup service, it helps to find details about a given address |
 | [Ton.sh](https://ton.sh) | An address lookup service, it helps to find details about a given address, it support API   |
 | [Tonmoon](https://tonmoon.org/explorer/)| Help to inspect an address, it support canonical address and nickname also |
