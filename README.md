@@ -256,7 +256,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### TON Blockchain explorers
 | Link | Description |
 | --- | --- |
-| [3xpl.com](https://3xpl.com/) | Fastest ad-free universal block explorer |
+| [3xpl.com](https://3xpl.com/ton) | Fastest ad-free universal block explorer |
 | [Tonscan](https://tonscan.org/)  | An address lookup service, it helps to find details about a given address |
 | [Ton.sh](https://ton.sh) | An address lookup service, it helps to find details about a given address, it support API   |
 | [Tonmoon](https://tonmoon.org/explorer/)| Help to inspect an address, it support canonical address and nickname also |
