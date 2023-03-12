@@ -147,7 +147,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### ETH Blockchain explorers
 | Link | Description |
 | --- | --- |
-| [3xpl.com](https://3xpl.com/eth) | Fastest ad-free universal block explorer. |
+| [3xpl.com](https://3xpl.com/ethereum) | Fastest ad-free universal block explorer. |
 | [Blockchain.com](https://www.blockchain.com/explorer/assets/eth) | One of the first and robust explorer, it permits to explor Bitcoin, Ethreum, Bitcoin Cash , other assets and also NFT  |
 | [Etherscan](https://etherscan.io/) | The most reliable and complete explorer for Ethereum ecosystem. It help to search Adressess, token , nft, smartcontracts and other also ens domains |
 | [Blockchair](https://blockchair.com/bitcoin) | An explorer that supports differents cryptovalutes, Bitcoin, Ethereum, Dogecoin, the search permits to query address, transaction and embedded text inside block |
