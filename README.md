@@ -225,7 +225,6 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
 
-
 ## <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="solana" style="width:25px;" width="25" height="25" /> [](#solana)SOLANA - SOL
 
 ### SOL Address Regex
@@ -268,10 +267,12 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Ton.cx](https://ton.cx/) | A raw and in depht analysis tool for TON transactions
 | [GetGems](https://getgems.io/top-collections/) | A marketplace for NFTs for TON network assets |
 
+
 ### TON Blockchain Databases and Analyzers
 | Link | Description |
 | --- | --- |
 | [Ton known addresses](https://catchain.github.io/tonscan/src/addrbook.json) | List of known TON Addresses
+
 
 ### TON OTHER
 | Link | Description |
@@ -299,6 +300,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 |[PALKEO](https://oko.palkeo.com/) | An Ethereum explorer focused on smart contracts |
 |[Ethereum Signature Database](https://www.4byte.directory/) | A database containing the bytes related to functions used in Database  |
 |[Grep.app](https://grep.app/search?q=solidity) | Search for smartcontract source code. It could be useful for search for nft or contract sourcecode |
+|[EIS3](https://github.com/salaheldinaz/EIS3) | A ENS domain (.eth domain) analyzer 
 
 
 ## NFT
@@ -329,10 +331,12 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | [Scamsniffer](https://explorer.scamsniffer.io/?sort=30DayVolume) | A full solution to track NFT scammer, it also supports a Browser extension and a Discord bot |
 
+
 ### NFT API
 | Tool | Description | API CALL |
 | --- | --- | --- |
 | [Alchemy API](https://www.alchemy.com/nft-api) | Help to navigate ETH and other chain data via API | `import { Alchemy } from "alchemy-sdk";Alchemy().nft.getNftsForOwner("0xshah.eth").then(console.log);` |
+
 
 ## IPFS
 | Tool | Description |
@@ -342,13 +346,10 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [IPFS scanner](https://github.com/cryptodashie/ipfs/tree/fda709851b21d9ef82eb246da6f96667f14f3ae8)| IPFS scanning can identify new hosted content or expose information leaks similar to Amazon S3 buckets.  | 
 | [IPFS browser](https://ipfsbrowser.com/) | Search, view, access, and download IPFS files quickly and easily right in your web browser from any device! |
 
-
-
 ## METAVERSE
 | LINK | Description |
 | --- | --- |
 | [Spatial](https://www.spatial.io) | An example of Metaverse, it contains different spaces where people can connect with. `https://www.spatial.io/@[USERNAME]`   |
-
 
 
 ## DORK
@@ -360,14 +361,12 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | `ETH - Total Speed` | (Shodan) Claymore Miner Software |
 
 
-
 ## NOTABLE ACCOUNT TO FOLLOW
 | Breach | Description |
 | --- | --- |
 | [CIA_Officer](https://twitter.com/officer_cia) | Independent Security Researcher • Not the CIA • OpSec & Privacy Guru • On-Chain & OSINT Sleuth
 | [Rugpullfinder-(Inactive)](https://twitter.com/rugpullfinder) | The NFT community's premier source of information |
 | [ZachXBT](https://twitter.com/zachxbt) | On-chain sleuth. Rug pull survivor turned 2D detective 
-
 
 
 ## TOOLS
@@ -383,7 +382,6 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [EMER name (Maltego Transform)](https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS/tree/63e6fb152a75893103ec038b9974db937ba21baa) | Useful transform to resolve EMER domain names |
 
 
-
 ## RESOURCES, REFERENCES, READING
 | Resource | Description |  
 | --- | --- |  
@@ -392,7 +390,6 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tornadocash after censorship](https://hackmd.io/@gozzy/tornado-cash-post-censorship) | A guide to bypass Tornadocash censorship  
 | [WEB3 is going great](https://web3isgoinggreat.com/) | Daily news about what's going wrong on Crypto and WEB3
 | [The Nerd in the high castle](https://thenerdinthehighcastle.wordpress.com) | OSINT and FORENSICS tutorial and articles
-
 
 
 ## NOTABLE BREACH AND LEAKS RELATED TO WEB3
