@@ -172,6 +172,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Cryptoscam](https://cryptscam.com/) | Another database containing information about scammers, it supports Email/Address search
 | [SPLcenter Addresslist](https://www.splcenter.org/cryptocurrency-report) | A spreadsheet containing information about address used by extremists and far right communities |
 | [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
+| [Walletlabels](https://www.walletlabels.xyz/) | Searchengine based on a collection of more than 7.5M ETH labeled addresses | 
 
 ### ETH Other
 | Link | Description |
