@@ -135,7 +135,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Antianalysis (DARK)](http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion/about) | Service is maintened and hosted by activist, it support machine learning to analyze information about an address and its related transactions | 
 | [Cryptocurrencyalerting](https://cryptocurrencyalerting.com/wallet-watch.html) | Getting alerts about transaction related to a given address |
 | [Localbitcoin](https://localbitcoins.com/) | Useful to check nicknames and details that could be related to Bitcoins adopters
-
+| [Aware Online](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)| Different tools to conduct Osint investigation on given BTC addresses |
 
 ## <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="btc" style="width:25px;" width="25" height="25"  /> Ethereum - ETH
 
@@ -181,6 +181,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [CriminalIP](https://www.criminalip.io/login?h=/asset/search?query=%22Ethereum%22%20port:%208545)|  It'a a infrstructure scanner. It scans ip and services, there is a section related to miner services exposed online |
 | [Naddison36](https://github.com/naddison36/tx2uml) | Ethereum transaction to UML sequence diagram generator |
 | [Cryptocurrencyalerting](https://cryptocurrencyalerting.com/wallet-watch.html) | Getting alerts about transaction related to a given address |
+| [Aware Online](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)| Different tools to conduct Osint investigation on given ETH addresses |
 
 ## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;" width="25" height="25" /> [](#monero)MONERO - XMR
 
