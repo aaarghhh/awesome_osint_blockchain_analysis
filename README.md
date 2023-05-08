@@ -136,6 +136,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Cryptocurrencyalerting](https://cryptocurrencyalerting.com/wallet-watch.html) | Getting alerts about transaction related to a given address |
 | [Localbitcoin](https://localbitcoins.com/) | Useful to check nicknames and details that could be related to Bitcoins adopters
 | [Aware Online](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)| Different tools to conduct Osint investigation on given BTC addresses |
+| [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform) | A Maltego transform which leverage the power of GraphSense for Crypto investigations |
+| [Mempool Space](https://mempool.space/it/) | A graphical dashboard to analyze history fo block congestion, fee, lighting networks and mining activities 
 
 ## <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="btc" style="width:25px;" width="25" height="25"  /> Ethereum - ETH
 
@@ -182,6 +184,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Naddison36](https://github.com/naddison36/tx2uml) | Ethereum transaction to UML sequence diagram generator |
 | [Cryptocurrencyalerting](https://cryptocurrencyalerting.com/wallet-watch.html) | Getting alerts about transaction related to a given address |
 | [Aware Online](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)| Different tools to conduct Osint investigation on given ETH addresses |
+| [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform) | A Maltego transform which leverage the power of GraphSense for Crypto investigations |
+| [Etherscan Transforms for Maltego](https://www.maltego.com/transform-hub/etherscan/) | The official Etherscan transform for Maltego
 
 ## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;" width="25" height="25" /> [](#monero)MONERO - XMR
 
