@@ -175,6 +175,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [SPLcenter Addresslist](https://www.splcenter.org/cryptocurrency-report) | A spreadsheet containing information about address used by extremists and far right communities |
 | [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
 | [Walletlabels](https://www.walletlabels.xyz/) | Search engine based on a collection of more than 7.5M ETH labeled addresses | 
+| [Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
 
 ### ETH Other
 | Link | Description |
@@ -306,7 +307,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 |[Ethereum Signature Database](https://www.4byte.directory/) | A database containing the bytes related to functions used in Database  |
 |[Grep.app](https://grep.app/search?q=solidity) | Search for smartcontract source code. It could be useful for search for nft or contract sourcecode |
 |[EIS3](https://github.com/salaheldinaz/EIS3) | A ENS domain (.eth domain) analyzer 
-
+| [Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
 
 ## NFT
 | Tool | Description |
@@ -329,7 +330,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Disintar](https://beta.disintar.io/) | A marketplace for NFTs based on TON netowrk, there is also a collection related to Telegram names |
 | [NFTGO.io](https://nftgo.io/) | Discover, analyze, and trade NFTs faster and smarter than anyone else, aided by in-depth analytics and intelligent toolkits. |
 | [NFT scan](https://www.nftscan.com/) | An nft explorer which supports different blockchain like Ethereum, Binance, Polygon, Solana and others
-
+| [Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
 
 ### NFT Databases and Analyzers
 | Link | Description |
