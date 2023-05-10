@@ -430,3 +430,4 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Cointracker | 2022 compromised Email and partial telephone number |
 | Gemini | 2022 email phone number |
 | Blockachain.com | 307K emails |
+| BuyUcoin | 2020, different data, the userbase, wallets, transactions list and more  |
