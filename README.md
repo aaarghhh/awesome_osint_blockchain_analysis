@@ -272,6 +272,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Ton.page](https://ton.page/) | Another Explorer, fast and easy to use
 | [Ton.cx](https://ton.cx/) | A raw and in depht analysis tool for TON transactions
 | [GetGems](https://getgems.io/top-collections/) | A marketplace for NFTs for TON network assets |
+| [re:doubt](https://redoubt.online/) | A platform for conduct TON analysis and investigations. It's an opensource prokject hosted [here](ttps://github.com/re-doubt)
 
 
 ### TON Blockchain Databases and Analyzers
