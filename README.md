@@ -93,6 +93,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Whalealert](https://whale-alert.io/alerts) | An alerting system, it's helpful to get alerts when wallets with a big amount of funds are making transactions |
 | [BTCparser](https://btcparser.com/) | A project to get information about differents kind of wallets, it monitors old wallets or wallets related to the Satoshi era |
 | [Bitref](https://bitref.com) | A simple, address explorer. It display amount of Bitcoin held on given addresses |
+| [Metasleuth](https://metasleuth.io/) | BTC Address explorer and wallet monitor
 
 
 ### BTC Blockchain Databases and Analyzers
@@ -163,6 +164,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Breadcrumbs.app](https://www.breadcrumbs.app/) | An investigation tool that help to visualize address relation, it's very helpful and it contains information about sanzioned address and assets. It supports BTC, ETH and any ERC20 Token |
 | [Arkhamintelligence](https://platform.arkhamintelligence.com) | A tool that permits network mapping on DEFI and altcoin related entities, currently in closed BETA
 | [Watchers.pro](https://watchers.pro) | [Warning!!! Create a sock wallet, it needs a Metamask extension to access it] A tool that provides a dashboard for clustering and inspecting DEFI and altcoin related entities 
+| [Metasleuth](https://metasleuth.io/) | ETH Address explorer and wallet monitor
+
 
 ### ETH Blockchain Databases and Analyzers
 | Link | Description |
