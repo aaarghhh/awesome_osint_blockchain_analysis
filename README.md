@@ -293,7 +293,9 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tonex](https://tonex.app/) | A social netowrk directly integrated on TON network
 | [TONwhale](https://tonwhales.com/it/explorer/top) | A list of top 1000 accounts 
 | [TONmeterbot](https://tonometerbot.com/) | A service used to make scores about users. The score is generated on Balance/NFTnum basis. 
+| [re:doubt](https://beta.redoubt.online/scam-abuse/#search) | A search engine for scam report related to The Open Network ecosystem 
 | [ATOP](https://github.com/aaarghhh/a_TON_of_privacy) | A tool for make investigation on TON NFTs like Telegram fake numbers, Telegram nickname, and TON domain.
+| [TON Forbes](https://tonforbes.com) | TON Forbes is an intelligent social rating of The Open Network blockchain wallets. 
 
 ### TON API
 | Link | Description |
@@ -372,7 +374,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 
 
 ## NOTABLE ACCOUNT TO FOLLOW
-| Breach | Description |
+| Account | Description |
 | --- | --- |
 | [CIA_Officer](https://twitter.com/officer_cia) | Independent Security Researcher • Not the CIA • OpSec & Privacy Guru • On-Chain & OSINT Sleuth
 | [Rugpullfinder-(Inactive)](https://twitter.com/rugpullfinder) | The NFT community's premier source of information |
@@ -380,7 +382,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 
 
 ## TOOLS
-| Breach | Description |
+| Tool | Description |
 | --- | --- |
 | [Obsidian templates Cryptocurrencies](https://github.com/theNerdInTheHighCastle/obsidian-osint-templates/blob/main/--%20templates/crypto-address.md) | An Obisidian template for Cryptocurrencies investigations  |
 | [Obsidian templates NFT](https://github.com/theNerdInTheHighCastle/obsidian-osint-templates/blob/main/--%20templates/NFT.md)| An Obisidian template for NFT investigations  |
