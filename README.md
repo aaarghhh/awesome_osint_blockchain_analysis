@@ -259,7 +259,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Address regex | Description |
 | --- | --- |
 | `0:[a-z0-9]{64}` | The raw address, it is an hexadecimal format  
-| `(E|U)Q[a-zA-Z0-9\-\_]{46}` | Friendly name, based on a custom hash algorithm, ref: crc16 custom, some insight on different kind of [Wallets](https://docs.ton.org/participate/wallets/contracts).
+| `(E\|U)Q[a-zA-Z0-9\-\_]{46}` | Friendly name, based on a custom hash algorithm, ref: crc16 custom, some insight on different kind of [Wallets](https://docs.ton.org/participate/wallets/contracts).
 | `\w\s\w\s\w` | It also supports generated nickname like `Graceful Tan Takin` <_<
 
 ### TON Blockchain explorers
