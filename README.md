@@ -404,7 +404,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Resource | Description |  
 | --- | --- |  
 | [Cia Operator Start.me](https://cia.start.me/p/dlaxD0/ciaofficerv2) | The start.me of CIA operators, and infinite source of news and interesting tools  |
-| [LeHACK Video](https://www.youtube.com/watch?v=MVHHokKEp7s&t=1101s) | A great video from [LeHack](https://lehack.org/), with maps, techniques examples and case-studies for ETH investigation | 
+| [LeHACK Video](https://www.youtube.com/watch?v=MVHHokKEp7s&t=1101s) | A great video from [LeHack](https://lehack.org/), with techniques, real examples and case-studies for ETH investigations | 
 | [Crypto Mindmaps](https://cryptoengineer.notion.site/cryptoengineer/9f1668632aa04a0a83a311a86e799254?v=f7c5c49231f44b91a44021411fa27e28) | Useful mindmaps related to  crypto and WEB3 |
 | [Tornadocash after censorship](https://hackmd.io/@gozzy/tornado-cash-post-censorship) | A guide to bypass Tornadocash censorship  
 | [WEB3 is going great](https://web3isgoinggreat.com/) | Daily news about what's going wrong on Crypto and WEB3
