@@ -190,6 +190,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Aware Online](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)| Different tools to conduct Osint investigation on given ETH addresses |
 | [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform) | A Maltego transform which leverage the power of GraphSense for Crypto investigations |
 | [Etherscan Transforms for Maltego](https://www.maltego.com/transform-hub/etherscan/) | The official Etherscan transform for Maltego
+| [Demixing Tornado cash bot](https://flipsidecrypto.xyz/AMLBot/demixin-eth-for-tornadocash-JCcIiS) | Tool for demixing transaction made using Tornado cash (updated weekly)
 
 ## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;" width="25" height="25" /> [](#monero)MONERO - XMR
 
@@ -246,7 +247,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | [Solana Explorer](https://explorer.solana.com/) | The official scanner for Solana transactions, it help to analyze addresses, transactions, tokens    |
 | [Blockchair](https://blockchair.com/solana) |  An explorer that supports differents cryptovalutes, Bitcoin, Ethereum, Dogecoin, the search permits to query address, transaction and embedded text inside block.   |
-| [Solscan.io](https://solscan.io/) | A Solana scanner which support Address, transaction, token and NFT 
+| [Solscan.io](https://solscan.io/) | A Solana scanner which support Address, transaction, token and NFT. Solscand was acquired by Etherscan 
 
 ### SOL Blockchain Databases and Analyzers
 | Link | Description |
@@ -313,7 +314,10 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 |[Ethereum Signature Database](https://www.4byte.directory/) | A database containing the bytes related to functions used in Database  |
 |[Grep.app](https://grep.app/search?q=solidity) | Search for smartcontract source code. It could be useful for search for nft or contract sourcecode |
 |[EIS3](https://github.com/salaheldinaz/EIS3) | A ENS domain (.eth domain) analyzer 
-| [Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
+|[Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
+
+## DEFI
+|[Sonar.watch](https://sonar.watch) | A multichain dashboard / explorer |
 
 ## NFT
 | Tool | Description |
@@ -358,11 +362,12 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [IPFS scanner](https://github.com/cryptodashie/ipfs/tree/fda709851b21d9ef82eb246da6f96667f14f3ae8)| IPFS scanning can identify new hosted content or expose information leaks similar to Amazon S3 buckets.  | 
 | [IPFS browser](https://ipfsbrowser.com/) | Search, view, access, and download IPFS files quickly and easily right in your web browser from any device! |
 
-## METAVERSE
+## METAVERSE - WEB3
 | LINK | Description |
 | --- | --- |
 | [Spatial](https://www.spatial.io) | An example of Metaverse, it contains different spaces where people can connect with. `https://www.spatial.io/@[USERNAME]`   |
-
+| [Debank](https://debank.com/) | A WEB3 messanger and Portfolio 
+| [Zapper](https://zapper.xyz/) | A multachain, WEB3 explorer. It allows search and monitor different kind of assets like TOKEN, NFT etc.
 
 ## DORK
 | Dork | Description |
@@ -394,10 +399,11 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [EMER name (Maltego Transform)](https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS/tree/63e6fb152a75893103ec038b9974db937ba21baa) | Useful transform to resolve EMER domain names |
 
 
-## RESOURCES, REFERENCES, READING
+## 📖 RESOURCES, REFERENCES, READING
 | Resource | Description |  
 | --- | --- |  
 | [Cia Operator Start.me](https://cia.start.me/p/dlaxD0/ciaofficerv2) | The start.me of CIA operators, and infinite source of news and interesting tools  |
+| [LeHACK Video](https://www.youtube.com/watch?v=MVHHokKEp7s&t=1101s) | A great video from [LeHack](https://lehack.org/), with maps, techniques examples and case-studies for ETH investigation | 
 | [Crypto Mindmaps](https://cryptoengineer.notion.site/cryptoengineer/9f1668632aa04a0a83a311a86e799254?v=f7c5c49231f44b91a44021411fa27e28) | Useful mindmaps related to  crypto and WEB3 |
 | [Tornadocash after censorship](https://hackmd.io/@gozzy/tornado-cash-post-censorship) | A guide to bypass Tornadocash censorship  
 | [WEB3 is going great](https://web3isgoinggreat.com/) | Daily news about what's going wrong on Crypto and WEB3
