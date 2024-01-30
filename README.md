@@ -368,6 +368,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Spatial](https://www.spatial.io) | An example of Metaverse, it contains different spaces where people can connect with. `https://www.spatial.io/@[USERNAME]`   |
 | [Debank](https://debank.com/) | A WEB3 messanger and Portfolio 
 | [Zapper](https://zapper.xyz/) | A multachain, WEB3 explorer. It allows search and monitor different kind of assets like TOKEN, NFT etc.
+| [Scamsniffer](https://www.scamsniffer.io/extension/) | A chrome extension aimed to block and detect scams and ragpull during the WEB3 surfing  |
 
 ## DORK
 | Dork | Description |
