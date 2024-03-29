@@ -61,6 +61,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Info / Tool | Description |
 | --- | --- |
 [OfficerCIA Guide](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) | Collection and discussion about the best DeFi,Blockchain and crypto-related OpSec researches
+[Anubitux](https://github.com/AnuBitux-project/build) | AnuBitux is a free project that aims to provide everyone with a safe and secure environment to manage crypto-stuff. Full documentation and tutorials [here](https://anubitux.org/).
 
 ## <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="btc" style="width:25px;" width="25" height="25" /> Bitcoin - BTC
 
