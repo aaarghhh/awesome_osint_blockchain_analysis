@@ -62,6 +62,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 [OfficerCIA Guide](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) | Collection and discussion about the best DeFi,Blockchain and crypto-related OpSec researches
 [Anubitux](https://github.com/AnuBitux-project/build) | AnuBitux is a free project that aims to provide everyone with a safe and secure environment to manage crypto-stuff. Full documentation and tutorials [here](https://anubitux.org/).
+[Slowmist Blockchain Darkforest](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) | Blockchain dark forest selfguard handbook: Master these, master the security of your cryptocurrency.
 
 ## <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="btc" style="width:25px;" width="25" height="25" /> Bitcoin - BTC
 
@@ -140,6 +141,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Aware Online](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)| Different tools to conduct Osint investigation on given BTC addresses |
 | [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform) | A Maltego transform which leverage the power of GraphSense for Crypto investigations |
 | [Mempool Space](https://mempool.space/it/) | A graphical dashboard to analyze history fo block congestion, fee, lighting networks and mining activities 
+| [Paxful](https://paxful.com/it/user/XXX) | An exchange that, starting from a given nickname, let you explore users and info related to them.
 
 ## <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="btc" style="width:25px;" width="25" height="25"  /> Ethereum - ETH
 
@@ -166,6 +168,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Arkhamintelligence](https://platform.arkhamintelligence.com) | A tool that permits network mapping on DEFI and altcoin related entities, currently in closed BETA
 | [Watchers.pro](https://watchers.pro) | [Warning!!! Create a sock wallet, it needs a Metamask extension to access it] A tool that provides a dashboard for clustering and inspecting DEFI and altcoin related entities 
 | [Metasleuth](https://metasleuth.io/) | ETH Address explorer and wallet monitor
+| [TrackEnn](https://github.com/kennbroorg/trackenn) | Traceability project in blockchain. Ethereum for now. Transactions, internals, ERC-20 transfers, contracts, internal tagging, labeling, etc
 
 
 ### ETH Blockchain Databases and Analyzers
@@ -192,6 +195,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [GraphSense Maltego Transform](https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform) | A Maltego transform which leverage the power of GraphSense for Crypto investigations |
 | [Etherscan Transforms for Maltego](https://www.maltego.com/transform-hub/etherscan/) | The official Etherscan transform for Maltego
 | [Demixing Tornado cash bot](https://flipsidecrypto.xyz/AMLBot/demixin-eth-for-tornadocash-JCcIiS) | Tool for demixing transaction made using Tornado cash (updated weekly)
+| [Paxful](https://paxful.com/it/user/XXX) | An exchange that, starting from a given nickname, let you explore users and info related to them.
 
 ## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;" width="25" height="25" /> [](#monero)MONERO - XMR
 
@@ -342,6 +346,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [NFTGO.io](https://nftgo.io/) | Discover, analyze, and trade NFTs faster and smarter than anyone else, aided by in-depth analytics and intelligent toolkits. |
 | [NFT scan](https://www.nftscan.com/) | An nft explorer which supports different blockchain like Ethereum, Binance, Polygon, Solana and others
 | [Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
+| [ZORA](https://zora.co/collect/eth:0x054460490780a6eb15625d703db1754e0b78d846) |  A platform for minting NFT, it let you explore useful information on some MINT statistics
+
 
 ### NFT Databases and Analyzers
 | Link | Description |
