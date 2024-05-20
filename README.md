@@ -95,6 +95,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Whalealert](https://whale-alert.io/alerts) | An alerting system, it's helpful to get alerts when wallets with a big amount of funds are making transactions |
 | [BTCparser](https://btcparser.com/) | A project to get information about differents kind of wallets, it monitors old wallets or wallets related to the Satoshi era |
 | [Bitref](https://bitref.com) | A simple, address explorer. It display amount of Bitcoin held on given addresses |
+| [Arkhamintelligence](https://platform.arkhamintelligence.com) | A tool that permits network mapping different Networks currently it supports BTC / ETH |
 | [Metasleuth](https://metasleuth.io/) | BTC Address explorer and wallet monitor
 
 
@@ -165,7 +166,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Ethplorer](https://ethplorer.io/) | Track address portfolios for any Ethereum address with comprehensive balance charts and transactions; |
 | [ENS Domains](https://app.ens.domains/) | An ens domain explore, mainly used to purchase that kind of assets, it also help to find end domains and related information |
 | [Breadcrumbs.app](https://www.breadcrumbs.app/) | An investigation tool that help to visualize address relation, it's very helpful and it contains information about sanzioned address and assets. It supports BTC, ETH and any ERC20 Token |
-| [Arkhamintelligence](https://platform.arkhamintelligence.com) | A tool that permits network mapping on DEFI and altcoin related entities, currently in closed BETA
+| [Arkhamintelligence](https://platform.arkhamintelligence.com) | A tool that permits network mapping different Networks currently it supports BTC / ETH |
 | [Watchers.pro](https://watchers.pro) | [Warning!!! Create a sock wallet, it needs a Metamask extension to access it] A tool that provides a dashboard for clustering and inspecting DEFI and altcoin related entities 
 | [Metasleuth](https://metasleuth.io/) | ETH Address explorer and wallet monitor
 | [TrackEnn](https://github.com/kennbroorg/trackenn) | Traceability project in blockchain. Ethereum for now. Transactions, internals, ERC-20 transfers, contracts, internal tagging, labeling, etc
