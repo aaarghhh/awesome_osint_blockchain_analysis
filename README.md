@@ -170,7 +170,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Watchers.pro](https://watchers.pro) | [Warning!!! Create a sock wallet, it needs a Metamask extension to access it] A tool that provides a dashboard for clustering and inspecting DEFI and altcoin related entities 
 | [Metasleuth](https://metasleuth.io/) | ETH Address explorer and wallet monitor
 | [TrackEnn](https://github.com/kennbroorg/trackenn) | Traceability project in blockchain. Ethereum for now. Transactions, internals, ERC-20 transfers, contracts, internal tagging, labeling, etc
-
+| [Ward Graph](https://wardgraph.com/) |  Nice graph explorer for ETH blockchain. [The Offical Repo](https://github.com/WardAnalytics/WardGraph)
 
 ### ETH Blockchain Databases and Analyzers
 | Link | Description |
