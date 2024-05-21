@@ -213,8 +213,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### XMR Blockchain Databases and Analyzers
 | Link | Description |
 | --- | --- |
-| [Antianalysis](https://antinalysis.org/example) | Service is maintened and hosted by activist, it support machine learning to analyze information about an address and its related transactions |
-| [Antianalysis (DARK)](http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion/about) | Service is maintened and hosted by activist, it support machine learning to analyze information about an address and its related transactions | 
+| ~~[Antianalysis](https://antinalysis.org/example)~~ | ~~Service is maintened and hosted by activist, it support machine learning to analyze information about an address and its related transactions~~ [#BacarefullwhatyouOSINTWith](https://www.justice.gov/opa/pr/incognito-market-owner-arrested-operating-one-largest-illegal-narcotics-marketplaces) |
+| ~~[Antianalysis (DARK)](http://pdcdvggsz5vhzbtxqn2rh27qovzga4pnrygya4ossewu64dqh2tvhsyd.onion/about)~~ | ~~Service is maintened and hosted by activist, it support machine learning to analyze information about an address and its related transactions~~ [#BacarefullwhatyouOSINTWith](https://www.justice.gov/opa/pr/incognito-market-owner-arrested-operating-one-largest-illegal-narcotics-marketplaces) | 
 
 ## <img src="https://cryptologos.cc/logos/cardano-ada-logo.png" alt="cardano" style="width:25px;" width="25" height="25" /> [](#cardano)CARDANO - ADA
 
