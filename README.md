@@ -97,6 +97,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Bitref](https://bitref.com) | A simple, address explorer. It display amount of Bitcoin held on given addresses |
 | [Arkhamintelligence](https://platform.arkhamintelligence.com) | A tool that permits network mapping different Networks currently it supports BTC / ETH |
 | [Metasleuth](https://metasleuth.io/) | BTC Address explorer and wallet monitor
+| [SpyderLab](https://www.spyderlab.org/) | Spyderlab.org offers blockchain forensics, crypto AML solutions, and OSINT tools for comprehensive investigative analysis.
 
 
 ### BTC Blockchain Databases and Analyzers
