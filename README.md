@@ -37,6 +37,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
     - [Format](#sol-address-regex)
     - [Explorer](#sol-blockchain-explorers)
     - [Blockchain Databases and Analyzers](#sol-blockchain-databases-and-analyzers)
+    - [Other](#sol-other)
 - [TONCOIN](#-toncoin---ton)
     - [Format](#ton-address-regex)
     - [Explorer](#ton-blockchain-explorers)
