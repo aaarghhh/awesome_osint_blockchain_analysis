@@ -125,7 +125,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | `http://codacoin.com/api/public.php?request=validate&address=xxx` | An api for get a validation of a given BTC address |  
 | `https://blockchain.info/q/24hrprice` | Retrieving the price of the last 24h |  
 | `https://blockchain.info/q/getreceivedbyaddress/xxx` | Retrieving the amount received on a given BTC address  |  
-| `ttps://blockchain.info/q/getsentbyaddress/xxx` | Retrieving information of what was sent by a given address |  
+| `https://blockchain.info/q/getsentbyaddress/xxx` | Retrieving information of what was sent by a given address |  
 | `https://blockchain.info/q/addressbalance/xxx` | Retrieving the balance for a given address |  
 | `https://chain.api.btc.com/v3/address/xxx` | Retrieving information about a given address |  
 | `https://blockchain.info/q/addressfirstseen/xxx` | It retrieve the first seen date of a given address |  
@@ -197,6 +197,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Etherscan Transforms for Maltego](https://www.maltego.com/transform-hub/etherscan/) | The official Etherscan transform for Maltego
 | [Demixing Tornado cash bot](https://flipsidecrypto.xyz/AMLBot/demixin-eth-for-tornadocash-JCcIiS) | Tool for demixing transaction made using Tornado cash (updated weekly)
 | [Paxful](https://paxful.com/it/user/XXX) | An exchange that, starting from a given nickname, let you explore users and info related to them.
+| [Onchain.industries](https://www.onchain.industries/) | A tool for identifying possible related addressed registered on different blockchain platform, it supports different modules for L1 and L2 blockchains
 
 ## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;" width="25" height="25" /> [](#monero)MONERO - XMR
 
@@ -259,6 +260,11 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Link | Description |
 | --- | --- |
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
+
+### SOL Other
+| Link | Description |
+| --- | --- |
+| [Onchain.industries](https://www.onchain.industries/) | A tool for identifying possible related addressed registered on different blockchain platform, it supports different modules for L1 and L2 blockchains
 
 ## <img src="https://cryptologos.cc/logos/thumbs/toncoin.png" alt="ton" style="width:25px;" width="25" height="25" /> [](#toncoin) TONCOIN - TON
 
