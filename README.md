@@ -70,10 +70,10 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### BTC Address Regex
 | Address regex | Description |
 | --- | --- |
-| `1[a-z0-9A-Z]{25,33}` | Legacy addresses |
-| `3[a-z0-9A-Z]{25,33}` | P2SH address |
-| `bc1[a-z0-9A-Z]{23,42}` | Segwit addresses |
-| `bc1p[a-z0-9A-Z]{23,42}` | Taproot addresses |
+| `1[a-km-zA-HJ-NP-Z1-9]{25,34}` | Legacy addresses |
+| `3[a-km-zA-HJ-NP-Z1-9]{25,34}` | P2SH address |
+| `bc1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{39,59}` | Segwit addresses |
+| `bc1p[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{59}` | Taproot addresses |
 
 ### BTC Blockchain explorers
 | Link | Description |
@@ -205,7 +205,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### XMR Address Regex
 | Address regex | Description |
 | --- | --- |
-| <code>(4&#124;8)[1-9A-Za-z]{94}</code> | A raw Monero address is a set of 95 characters starting with a '4' or an '8 |
+| <code>[48][1-9A-Za-z]{94}</code> | A raw Monero address is a set of 95 characters starting with a '4' or an '8 |
 
 ### XMR Blockchain Explorers
 | Link | Description |
