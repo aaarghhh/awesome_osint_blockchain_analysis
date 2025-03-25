@@ -172,6 +172,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Metasleuth](https://metasleuth.io/) | ETH Address explorer and wallet monitor
 | [TrackEnn](https://github.com/kennbroorg/trackenn) | Traceability project in blockchain. Ethereum for now. Transactions, internals, ERC-20 transfers, contracts, internal tagging, labeling, etc
 | [Ward Graph](https://wardgraph.com/) |  Nice graph explorer for ETH blockchain. [The Offical Repo](https://github.com/WardAnalytics/WardGraph)
+| [Socketscan](https://www.socketscan.io/) | EVM bridge explorer
 
 ### ETH Blockchain Databases and Analyzers
 | Link | Description |
@@ -199,6 +200,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Demixing Tornado cash bot](https://flipsidecrypto.xyz/AMLBot/demixin-eth-for-tornadocash-JCcIiS) | Tool for demixing transaction made using Tornado cash (updated weekly)
 | [Paxful](https://paxful.com/it/user/XXX) | An exchange that, starting from a given nickname, let you explore users and info related to them.
 | [Onchain.industries](https://www.onchain.industries/) | A tool for identifying possible related addressed registered on different blockchain platform, it supports different modules for L1 and L2 blockchains
+| [Cielo](https://app.cielo.finance/) | A tool for tracking and monitoring EVM wallets
 
 ## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;" width="25" height="25" /> [](#monero)MONERO - XMR
 
@@ -291,12 +293,10 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [GetGems](https://getgems.io/top-collections/) | A marketplace for NFTs for TON network assets |
 | [re:doubt](https://redoubt.online/) | A platform for conduct TON analysis and investigations. It's an opensource prokject hosted [here](https://github.com/re-doubt)
 
-
 ### TON Blockchain Databases and Analyzers
 | Link | Description |
 | --- | --- |
 | [Ton known addresses](https://catchain.github.io/tonscan/src/addrbook.json) | List of known TON Addresses
-
 
 ### TON OTHER
 | Link | Description |
@@ -320,6 +320,11 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Get a backresolve of a domain | ```curl -X 'GET' 'https://tonapi.io/v1/dns/backresolve?account=0%3ABA60BFBD527C0CD2D70C6396630C50A498AF015B987ADAAD1D4A9E287F604536' -H 'accept: application/json'``` |
 | Get current bids for a domain | ```curl -X 'GET' 'https://tonapi.io/v1/auction/getBids?domain=wallet.ton' -H 'accept: application/json'``` | 
 | Retrieve data from a given NFT | ```https://ton.diamonds/api/v1/explorer/search_list``` |
+
+## CCTP EXPLORERS
+| Link | description |
+| --- | --- | 
+| [Range](https://explorer.range.org/) | CCTP transactions explorer |
 
 ## SMARTCONTRACTS
 | Tool | Description |
@@ -357,18 +362,15 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
 | [ZORA](https://zora.co/collect/eth:0x054460490780a6eb15625d703db1754e0b78d846) |  A platform for minting NFT, it let you explore useful information on some MINT statistics
 
-
 ### NFT Databases and Analyzers
 | Link | Description |
 | --- | --- |
 | [Scamsniffer](https://explorer.scamsniffer.io/?sort=30DayVolume) | A full solution to track NFT scammer, it also supports a Browser extension and a Discord bot |
 
-
 ### NFT API
 | Tool | Description | API CALL |
 | --- | --- | --- |
 | [Alchemy API](https://www.alchemy.com/nft-api) | Help to navigate ETH and other chain data via API | `import { Alchemy } from "alchemy-sdk";Alchemy().nft.getNftsForOwner("0xshah.eth").then(console.log);` |
-
 
 ## IPFS
 | Tool | Description |
@@ -394,14 +396,12 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | `(antminer) AND protocols.raw: “80/http” AND 80.http.get.title: “401”` | (Shodan) dork for antminer |
 | `ETH - Total Speed` | (Shodan) Claymore Miner Software |
 
-
 ## NOTABLE ACCOUNT TO FOLLOW
 | Account | Description |
 | --- | --- |
 | [CIA_Officer](https://twitter.com/officer_cia) | Independent Security Researcher • Not the CIA • OpSec & Privacy Guru • On-Chain & OSINT Sleuth
 | [Rugpullfinder-(Inactive)](https://twitter.com/rugpullfinder) | The NFT community's premier source of information |
 | [ZachXBT](https://twitter.com/zachxbt) | On-chain sleuth. Rug pull survivor turned 2D detective 
-
 
 ## TOOLS
 | Tool | Description |
@@ -414,6 +414,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Opensanctions (Maltego Transofrm)](https://www.maltego.com/) | A transform for Maltego, it queries sanctioned address from opensaction database |
 | [Cyphertrace Explorer (Maltego Transform)](https://www.maltego.com/) | The Cypertrace' transform for Maltego 
 | [EMER name (Maltego Transform)](https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS/tree/63e6fb152a75893103ec038b9974db937ba21baa) | Useful transform to resolve EMER domain names |
+| [Mugetsu](https://t.me/the_mugetsu_bot) | (Correlation from X, handle,  identify wallet, tradinjg analysis and wallet explorer 
+| [Impersonator](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl) | Spoof ETH address for authenticating in Dapps
 
 
 ## 📖 RESOURCES, REFERENCES, READING
