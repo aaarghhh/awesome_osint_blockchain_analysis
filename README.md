@@ -427,38 +427,3 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tornadocash after censorship](https://hackmd.io/@gozzy/tornado-cash-post-censorship) | A guide to bypass Tornadocash censorship  
 | [WEB3 is going great](https://web3isgoinggreat.com/) | Daily news about what's going wrong on Crypto and WEB3
 | [The Nerd in the high castle](https://thenerdinthehighcastle.wordpress.com) | OSINT and FORENSICS tutorial and articles
-
-
-## NOTABLE BREACH AND LEAKS RELATED TO WEB3
-| Breach | Description |
-| --- | --- |
-| Bitcointalk |2015, database of one of the first community directly involved in BTC growth |
-| BTC-E | Account balances, Email addresses, IP addresses, Passwords, Usernames, Website activity  |
-| BTC-Alpha | Email addresses, IP addresses, Passwords, Usernames |
-| Globalcrypto.exchange | Hacked by CoomingProject ransomware operators >__> |
-| Ledger | A list of info related to Ledger user, it was leaked in 2022 and cointains user details |
-| Coinmarketcap| A list of email scraped from Coinmarketecap platform |
-| Coinmama | Email addresses, Passwords, Usernames |
-| Bitcoin Lixter | Combolit |
-| Bit2Visitor | Combolist |
-| BitcoinRush.io | Combolist |
-| BitLeak.net | Combolist |
-| Atlas Quantum | Account balances, Email addresses, Names, Phone numbers |
-| BitsCircle | Combolist (Credential stuffing?) |
-| BitLeak.net | Combolist (Credential stuffing?) |
-| GateHub | Email addresses, Encrypted keys, Mnemonic phrases, Passwords of the online wallet service |
-| BitsCircle.com | Combolist (Credential stuffing?) |
-| BTC4Free.com | Combolist (Credential stuffing?) |
-| BTC60.net | Combolist (Credential stuffing?) |
-| ButterflyLab.com | Combolist (Credential stuffing?) |
-| Feathercoin.com | Combolist (Credential stuffing?) |
-| MtGox.com | Combolist (Credential stuffing?) |
-| ShoppingBitcoins.com | Combolist (Credential stuffing?) |
-| Dagpay.io | Mail,password,IP,id of the SCAM project Dagocoin |
-| Paybito | Hitted by Lockbit ransomware gang >__> |
-| BitRewards | bitrewards.com 2020 full database |
-| BitMain | Bitmain database 2018 |
-| Cointracker | 2022 compromised Email and partial telephone number |
-| Gemini | 2022 email phone number |
-| Blockachain.com | 307K emails |
-| BuyUcoin | 2020, different data, the userbase, wallets, transactions list and more  |
