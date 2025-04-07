@@ -410,8 +410,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Obsidian templates NFT](https://github.com/theNerdInTheHighCastle/obsidian-osint-templates/blob/main/--%20templates/NFT.md)| An Obisidian template for NFT investigations  |
 | [Eth Explorers Extension](https://github.com/apoorvlathey/eth-explorers-extension) | Browser extension to open Ethereum addresses & transaction hash from any page on popular explorers + dashboards |
 | [Maltego](https://www.maltego.com/)| Maltego directly support BTC and ETH address entities. It is a tool used for OSINT and Forensic investigations   |
-| [Tatum Blockchain Explorer (Maltego Transofrm)](https://www.maltego.com/) | Tatum is a blockchain development platform that supports over 40 blockchain protocols and 2000 + digital assets.   |
-| [Opensanctions (Maltego Transofrm)](https://www.maltego.com/) | A transform for Maltego, it queries sanctioned address from opensaction database |
+| [Tatum Blockchain Explorer (Maltego Transform)](https://www.maltego.com/) | Tatum is a blockchain development platform that supports over 40 blockchain protocols and 2000 + digital assets.   |
+| [Opensanctions (Maltego Transform)](https://www.maltego.com/) | A transform for Maltego, it queries sanctioned address from opensaction database |
 | [Cyphertrace Explorer (Maltego Transform)](https://www.maltego.com/) | The Cypertrace' transform for Maltego 
 | [EMER name (Maltego Transform)](https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS/tree/63e6fb152a75893103ec038b9974db937ba21baa) | Useful transform to resolve EMER domain names |
 | [Mugetsu](https://t.me/the_mugetsu_bot) | (Correlation from X, handle,  identify wallet, tradinjg analysis and wallet explorer 
