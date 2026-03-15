@@ -263,6 +263,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Link | Description |
 | --- | --- |
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
+| [Chain Forensics](https://chainforensics.ai) | Behavioral wallet clustering API detecting sybils, bots, and coordinated trading on Solana using neural field analysis. Free via [API](https://chainforensics.ai/docs) or [Telegram](https://t.me/Cluster_scanbot). |
 
 ### SOL Other
 | Link | Description |
@@ -414,6 +415,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Opensanctions (Maltego Transofrm)](https://www.maltego.com/) | A transform for Maltego, it queries sanctioned address from opensaction database |
 | [Cyphertrace Explorer (Maltego Transform)](https://www.maltego.com/) | The Cypertrace' transform for Maltego 
 | [EMER name (Maltego Transform)](https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS/tree/63e6fb152a75893103ec038b9974db937ba21baa) | Useful transform to resolve EMER domain names |
+| [Chain Forensics](https://chainforensics.ai) | On-chain behavioral clustering API. Detects sybil networks, bot clusters, and coordinated wallets across Solana, Ethereum, Base, Arbitrum, Optimism, and Polygon using neural field analysis. Free tier available. [API](https://chainforensics.ai/docs) / [Telegram Bot](https://t.me/Cluster_scanbot) |
 | [Mugetsu](https://t.me/the_mugetsu_bot) | (Correlation from X, handle,  identify wallet, tradinjg analysis and wallet explorer 
 | [Impersonator](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl) | Spoof ETH address for authenticating in Dapps
 
