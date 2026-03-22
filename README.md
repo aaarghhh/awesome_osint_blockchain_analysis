@@ -78,6 +78,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 ### BTC Blockchain explorers
 | Link | Description |
 | --- | --- |
+| [RowBTC.com](https://rowbtc.com/) | Human-Friendly and open analytics Bitcoin Blockchain explorer |
+| [Explorer.Apirone.com](https://explorer.apirone.com/) | Bitcoin blockchain explorer by Apirone |
 | [3xpl.com](https://3xpl.com/bitcoin) | Fastest ad-free universal block explorer |
 | [Blockchain.com](https://www.blockchain.com/explorer/assets/btc) | One of the first and robust explorer, it permits to explor Bitcoin, Ethreum, Bitcoin Cash , other Assets and also NFT  |
 | [Blockchair](https://blockchair.com/bitcoin) | An explorer that supports differents cryptovalutes, Bitcoin, Ethereum, Dogecoin, the search permits to query address, transaction and embedded text inside block |
