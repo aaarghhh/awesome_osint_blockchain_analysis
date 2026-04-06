@@ -200,6 +200,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Demixing Tornado cash bot](https://flipsidecrypto.xyz/AMLBot/demixin-eth-for-tornadocash-JCcIiS) | Tool for demixing transaction made using Tornado cash (updated weekly)
 | [Paxful](https://paxful.com/it/user/XXX) | An exchange that, starting from a given nickname, let you explore users and info related to them.
 | [Onchain.industries](https://www.onchain.industries/) | A tool for identifying possible related addressed registered on different blockchain platform, it supports different modules for L1 and L2 blockchains
+| [XHuntr](https://xhuntr.com) | X (Twitter) community sniper for Solana — real-time Telegram alerts when tracked accounts create/join X communities, post Solana CAs inside communities before public tweets, or multiple tracked accounts converge. Social intelligence layer that fires 24-48h before on-chain activity. |
 | [Cielo](https://app.cielo.finance/) | A tool for tracking and monitoring EVM wallets
 
 ## <img src="https://cryptologos.cc/logos/monero-xmr-logo.png" alt="monero" style="width:25px;" width="25" height="25" /> [](#monero)MONERO - XMR
@@ -268,6 +269,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | Link | Description |
 | --- | --- |
 | [Onchain.industries](https://www.onchain.industries/) | A tool for identifying possible related addressed registered on different blockchain platform, it supports different modules for L1 and L2 blockchains
+| [XHuntr](https://xhuntr.com) | X (Twitter) community sniper for Solana — real-time Telegram alerts when tracked accounts create/join X communities, post Solana CAs inside communities before public tweets, or multiple tracked accounts converge. Social intelligence layer that fires 24-48h before on-chain activity. |
 
 ## <img src="https://cryptologos.cc/logos/thumbs/toncoin.png" alt="ton" style="width:25px;" width="25" height="25" /> [](#toncoin) TONCOIN - TON
 
