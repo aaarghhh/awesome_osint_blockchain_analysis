@@ -13,6 +13,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 
 
 ## [](#table-of-contents) Table of contents
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 - [OPSEC](#crypto-opsec-methodologies-and-info)
 - [BITCOIN](#-bitcoin---btc)
     - [Format](#btc-address-regex)
