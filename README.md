@@ -415,6 +415,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Cyphertrace Explorer (Maltego Transform)](https://www.maltego.com/) | The Cypertrace' transform for Maltego 
 | [EMER name (Maltego Transform)](https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS/tree/63e6fb152a75893103ec038b9974db937ba21baa) | Useful transform to resolve EMER domain names |
 | [Mugetsu](https://t.me/the_mugetsu_bot) | (Correlation from X, handle,  identify wallet, tradinjg analysis and wallet explorer 
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X data API, MCP server, SDKs, and webhooks for public tweet search, account lookup, follower export, monitors, and media workflows that add off-chain context to crypto OSINT investigations |
 | [Impersonator](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl) | Spoof ETH address for authenticating in Dapps
 
 
