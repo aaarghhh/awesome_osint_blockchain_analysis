@@ -186,6 +186,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
 | [Walletlabels](https://www.walletlabels.xyz/) | Search engine based on a collection of more than 7.5M ETH labeled addresses | 
 | [Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
+| [OnChainRisk](https://onchainrisk.io/) | OnChainRisk is a wallet risk screening and blockchain investigation API for checking wallet risk, tracing fund flows, and identifying high-risk signals on supported networks. |
 
 ### ETH Other
 | Link | Description |
