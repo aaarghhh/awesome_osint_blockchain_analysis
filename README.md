@@ -64,6 +64,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 [OfficerCIA Guide](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) | Collection and discussion about the best DeFi,Blockchain and crypto-related OpSec researches
 [Anubitux](https://github.com/AnuBitux-project/build) | AnuBitux is a free project that aims to provide everyone with a safe and secure environment to manage crypto-stuff. Full documentation and tutorials [here](https://anubitux.org/).
 [Slowmist Blockchain Darkforest](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) | Blockchain dark forest selfguard handbook: Master these, master the security of your cryptocurrency.
+[CryptoStrapon AI Scam Detector](https://cryptostrapon.com/scam-detector) | Free AI-powered tool that checks messages, wallet addresses, URLs and token contracts against 60+ crypto scam signals — phishing, honeypots, address poisoning, deepfakes, fake support impersonation. No signup required.
 
 ## <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="btc" style="width:25px;" width="25" height="25" /> Bitcoin - BTC
 
