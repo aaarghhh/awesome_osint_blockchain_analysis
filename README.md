@@ -45,18 +45,16 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
     - [Other](#ton-other)
     - [API](#ton-api)
 - [SMARTCONTRACTS](#smartcontracts)
-- [METAVERSE](#metaverse)
+- [METAVERSE](#metaverse---web3)
 - [NFT](#nft)
     - [NFT Databases and Analyzers](#nft-databases-and-analyzers)
     - [API](#nft-api)
 - [IPFS](#ipfs)
-- [METAVERSE](#metaverse)
 - [DEFI](#defi)
 - [DORK](#dork)
 - [NOTABLE ACCOUNT TO FOLLOW](#notable-accounts-to-follow)
 - [TOOLS](#tools)
 - [RESOURCES, REFERENCES, READING](#resources-references-reading)
-- [LEAKS?](#notable-breach-and-leaks-related-to-web3)
 
 ### CRYPTO-OPSEC Methodologies and Info 
 | Info / Tool | Description |
@@ -412,10 +410,13 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Maltego](https://www.maltego.com/)| Maltego directly support BTC and ETH address entities. It is a tool used for OSINT and Forensic investigations   |
 | [Tatum Blockchain Explorer (Maltego Transofrm)](https://www.maltego.com/) | Tatum is a blockchain development platform that supports over 40 blockchain protocols and 2000 + digital assets.   |
 | [Opensanctions (Maltego Transofrm)](https://www.maltego.com/) | A transform for Maltego, it queries sanctioned address from opensaction database |
-| [Cyphertrace Explorer (Maltego Transform)](https://www.maltego.com/) | The Cypertrace' transform for Maltego 
+| [Cyphertrace Explorer (Maltego Transform)](https://www.maltego.com/) | The CipherTrace transform for Maltego |
 | [EMER name (Maltego Transform)](https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS/tree/63e6fb152a75893103ec038b9974db937ba21baa) | Useful transform to resolve EMER domain names |
-| [Mugetsu](https://t.me/the_mugetsu_bot) | (Correlation from X, handle,  identify wallet, tradinjg analysis and wallet explorer 
-| [Impersonator](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl) | Spoof ETH address for authenticating in Dapps
+| [Mugetsu](https://t.me/the_mugetsu_bot) | Correlates X handles with wallets and supports trading analysis and wallet exploration |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X data API, MCP server, SDKs, and webhooks for public tweet search, account lookup, follower export, monitors, and media workflows that add off-chain context to crypto OSINT investigations |
+| [Impersonator](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl) | Spoof an ETH address for authenticating in dApps |
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 
 ## 📖 RESOURCES, REFERENCES, READING
