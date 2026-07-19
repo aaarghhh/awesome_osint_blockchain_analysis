@@ -427,3 +427,4 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Tornadocash after censorship](https://hackmd.io/@gozzy/tornado-cash-post-censorship) | A guide to bypass Tornadocash censorship  
 | [WEB3 is going great](https://web3isgoinggreat.com/) | Daily news about what's going wrong on Crypto and WEB3
 | [The Nerd in the high castle](https://thenerdinthehighcastle.wordpress.com) | OSINT and FORENSICS tutorial and articles
+| [Crypto Signal Fraud Casebook](https://realcryptosignals.com/research/enforcement-actions/) | 11 documented US enforcement actions (SEC/DOJ/CFTC) against crypto "trading signal" schemes, $6B+ in losses, every case cited to primary sources — pattern reference for scam investigations |
