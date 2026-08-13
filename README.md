@@ -246,6 +246,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Chainabuse](https://www.chainabuse.com/) | Report a cryptocurrency hack or scam across multiple blockchains and search addresses and domains to see if they are connected to any fraudulent activity. It supports BTC, ETH, SOL and ADA |
 
 ## <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="solana" style="width:25px;" width="25" height="25" /> [](#solana)SOLANA - SOL
+- [Solana Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when a Solana SPL token price crosses a threshold, no external database, ready in 5 minutes.
 
 ### SOL Address Regex
 | Address regex | Description |
