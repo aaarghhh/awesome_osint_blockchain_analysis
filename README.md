@@ -115,6 +115,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [SPLcenter Addresslist](https://www.splcenter.org/cryptocurrency-report) | A spreadsheet containing information about address used by extremists and far right communities |
 | [Bad Bitcoin](https://badbitcoin.org/) | A database containing info and details about Bitcoin Fraud since 2014 |
 | [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
+| [PublicAML](https://publicaml.org) | Free, no-signup AML/KYT screening for BTC, ETH, BNB Chain and TRON addresses — returns a risk score, sanctions (OFAC) status, category (scam/mixer/hack/darknet) and source-of-funds. Also a keyless enrich API and a Telegram bot. |
 
 ### BTC API
 | Req | Description |  
@@ -184,6 +185,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Cryptoscam](https://cryptscam.com/) | Another database containing information about scammers, it supports Email/Address search
 | [SPLcenter Addresslist](https://www.splcenter.org/cryptocurrency-report) | A spreadsheet containing information about address used by extremists and far right communities |
 | [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
+| [PublicAML](https://publicaml.org) | Free, no-signup AML/KYT screening for BTC, ETH, BNB Chain and TRON addresses — returns a risk score, sanctions (OFAC) status, category (scam/mixer/hack/darknet) and source-of-funds. Also a keyless enrich API and a Telegram bot. |
 | [Walletlabels](https://www.walletlabels.xyz/) | Search engine based on a collection of more than 7.5M ETH labeled addresses | 
 | [Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
 
