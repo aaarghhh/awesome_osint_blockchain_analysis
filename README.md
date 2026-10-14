@@ -173,6 +173,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [TrackEnn](https://github.com/kennbroorg/trackenn) | Traceability project in blockchain. Ethereum for now. Transactions, internals, ERC-20 transfers, contracts, internal tagging, labeling, etc
 | [Ward Graph](https://wardgraph.com/) |  Nice graph explorer for ETH blockchain. [The Offical Repo](https://github.com/WardAnalytics/WardGraph)
 | [Socketscan](https://www.socketscan.io/) | EVM bridge explorer
+| [Hopchain](https://hopchain.io/) | Free, no-signup wallet explorer that shows who an address has dealt with as a connection graph, with known-entity labels and scam/sanction flags, plus a pairwise and bulk Sybil/cluster check. Covers Ethereum and other EVM chains (BNB Chain, Polygon, Arbitrum, Base and more), Tron and Solana. |
 
 ### ETH Blockchain Databases and Analyzers
 | Link | Description |
