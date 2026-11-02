@@ -1,0 +1,20 @@
+# AI assistants / agent tooling
+.claude/
+CLAUDE.local.md
+.cursor/
+.aider*
+.continue/
+.windsurf/
+.codex/
+.gemini/
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
