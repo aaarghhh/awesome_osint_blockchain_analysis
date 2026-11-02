@@ -173,6 +173,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [TrackEnn](https://github.com/kennbroorg/trackenn) | Traceability project in blockchain. Ethereum for now. Transactions, internals, ERC-20 transfers, contracts, internal tagging, labeling, etc
 | [Ward Graph](https://wardgraph.com/) |  Nice graph explorer for ETH blockchain. [The Offical Repo](https://github.com/WardAnalytics/WardGraph)
 | [Socketscan](https://www.socketscan.io/) | EVM bridge explorer
+| [Tracevoy](https://tracevoy.com/) | Follows one incoming transfer forward across wallets and swaps and writes a report with a map, amounts and the records behind them. ETH, Tron, OP Mainnet, Arbitrum, Scroll, Gnosis, Unichain. Paid per investigation; looking up a transfer is free. Needs an account. |
 
 ### ETH Blockchain Databases and Analyzers
 | Link | Description |
