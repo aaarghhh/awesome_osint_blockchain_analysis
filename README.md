@@ -257,6 +257,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | [MistTrack](https://misttrack.io/) | AML tracing and risk detection with address labels, it supports TRON and USDT-TRC20 flows |
 | [Chainabuse](https://www.chainabuse.com/) | Community scam reports, it supports TRON addresses |
+| [FreezeRadar](https://freezeradar.com/) | Free check of USDT (TRC20/ERC20), USDC and PAXG issuer blacklist/freeze status and sanctions exposure of an address, with a public log of freeze events |
 
 ### TRX API
 | Req | Description |
