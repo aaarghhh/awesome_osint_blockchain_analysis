@@ -276,6 +276,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | [Blockchair](https://blockchair.com/monero) | Helps to inspect transactions and related hashes. |
 | [xmrchain.net](https://xmrchain.net/) | Open-source Monero explorer, it can decode outputs given an address and a view key, and prove payments with a tx key |
+| [XMRList TX Checker](https://xmrlist.com/tools/tx-checker) | Shows a Monero transaction's confirmations, fee, size and mempool status, and proves or verifies a payment with the tx key and recipient address |
 
 ## <img src="https://cryptologos.cc/logos/cardano-ada-logo.png" alt="ada" style="width:25px;" width="25" height="25" /> Cardano - ADA
 
