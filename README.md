@@ -257,6 +257,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | [MistTrack](https://misttrack.io/) | AML tracing and risk detection with address labels, it supports TRON and USDT-TRC20 flows |
 | [Chainabuse](https://www.chainabuse.com/) | Community scam reports, it supports TRON addresses |
+| [TRON Checker](https://usdt.chikocorp.com/tron-usdt-blacklist-checker) | Free, no-signup check of a TRON address against Tether's USDT-TRC20 blacklist (direct contract read cross-checked with TronScan) and the OFAC SDN list, with timestamps and explainable risk indicators. API available |
 
 ### TRX API
 | Req | Description |
