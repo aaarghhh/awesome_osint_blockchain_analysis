@@ -257,6 +257,8 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | --- | --- |
 | [MistTrack](https://misttrack.io/) | AML tracing and risk detection with address labels, it supports TRON and USDT-TRC20 flows |
 | [Chainabuse](https://www.chainabuse.com/) | Community scam reports, it supports TRON addresses |
+| [FreezeCheck](https://freezecheck.org/) | Free USDT-TRC20 address check via Telegram bot: Tether blacklist, sanctions, look-alike (poisoning) addresses and drainers, with fund-flow graph |
+| [TRON address poisoning dataset](https://doi.org/10.5281/zenodo.24063527) | Open dataset (CC BY 4.0) of 7.3M look-alike USDT addresses on TRON, 2023–2026, plus 17 wallets that create them in bulk |
 
 ### TRX API
 | Req | Description |
