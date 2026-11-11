@@ -486,6 +486,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Opensanctions (Maltego Transform)](https://www.maltego.com/) | A transform for Maltego, it queries sanctioned addresses from the OpenSanctions database |
 | [EMER name (Maltego Transform)](https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS/tree/63e6fb152a75893103ec038b9974db937ba21baa) | Useful transform to resolve EMER domain names |
 | [Mugetsu](https://t.me/the_mugetsu_bot) | Correlation from X handle, wallet identification, trading analysis and wallet explorer |
+| [twtData Crypto KOL Checker](https://twtdata.com/crypto-kol-checker/) | Free check of the X account behind a token promotion: one handle, ten account checks (age, follow ratio, posting rate, engagement over the last 20 posts, list memberships and more) and a 0-100 score |
 | [Impersonator](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl) | Spoof ETH address for authenticating in Dapps |
 
 
